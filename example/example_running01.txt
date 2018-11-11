@@ -1,0 +1,16 @@
+5 10
+abcda
+adbaa
+abcba
+ccccc
+bcbcd
+abcdaeqefg
+adbaaabcda
+abcbaadbaa
+cccccabcba
+bcbcdccccc
+abddbbcbcd
+abcdabcdaa
+dabcadbadb
+abcdaadbaa
+adbaaabcba
